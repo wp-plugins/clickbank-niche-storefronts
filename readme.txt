@@ -1,7 +1,8 @@
 === Clickbank Niche Storefront WP Plugin ===
 Contributors:dactum
 Donate link: http://cbproads.com
-Tags: clickbank,Clickbank Niche Storefront plugin, Clickbank Mall, ClickStorefront plugin, Wordpress plugin for Clickbank Mall
+Tags: clickbank, Clickbank Niche Storefront plugin, Clickbank Mall, ClickStorefront plugin, Wordpress plugin for Clickbank Mall, cbmall, clickbank marketplace, clickbank mall, cbproads, clickbank plugin, Clickbank Storefront, clickbank niche storefront
+
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: trunk
