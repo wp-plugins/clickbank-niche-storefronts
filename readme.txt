@@ -21,7 +21,7 @@ Using this plugin, you can host these clickbank products on your website as a ni
 
 Easy to install. Just add this shortcode to any WordPress page/post:
 
-`[cb-storefront]`
+`[clickbank-niche-storefront]`
 
 == Installation ==
 
@@ -52,4 +52,4 @@ Yes, you need to be a free/paid member at **CBproAds.com**. Click here to [Sign 
 1. After the activation of plugin, you may click on 'settings' link of the plugin as shown in below picture. 
 2. Please enter your CBproAds.com account ID here in this step. [Sign up @ CBproAds.com](http://cbproads.com/join.asp) to get one. It is absoultely free to join.
 3. You can find the niche code of the desired niche at  [here](http://cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp) 
-4. Place the shortcode `[cb-storefront]` to any WordPress page/post.
+4. Place the shortcode `[clickbank-niche-storefront]` to any WordPress page/post.
