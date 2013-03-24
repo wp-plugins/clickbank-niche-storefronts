@@ -59,9 +59,9 @@ Using this plugin, you can host a niche storefront of your choice to your existi
    In short, there is no further maintenance/actions needed from your side with our plugin. 
    You just install and forget. We do take care of every thing.
 
-3. **Clickbank.com&reg;** often changes it's marketplace data XML feed structure. With our our plugin, Clickbank changes will never 
-   affect your storefront as you share our IMPROVED XML feed rather than using clickbank's XML feed. 
-   We make sure that when ever a change is made by Clickbank, our central XML feed is too updated according to that structure.  
+3. **Clickbank.com&reg;** often changes it's marketplace data XML feed structure. With our plugin, Clickbank's changes will never 
+   affect your storefront as you share our IMPROVED central XML feed rather than using clickbank's XML feed directly. 
+   We make sure that when ever a change is made by Clickbank, our central XML feed is too updated according to that structure and so yours too.  
 
 4. We are the only site that provides product image cover of each products in your storefront. 
 
@@ -69,7 +69,7 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 
 6. NO brainstorming settings. It is easy to install and hardly take few seconds to set up. 
 
-7. You have also have the option of installing from 60 premade readymade niche packages. 
+7. You have also have the option of installing from **60 premade readymade niche packages**. 
    Each package contains wordpress installation files, a theme, necessary plugins, videos, articles,
    banner/ adsense widgets to every thing that will help you to build a full fledged 
    niche storefront. If you have already have a wordpress installed and want to install this
