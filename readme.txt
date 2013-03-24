@@ -15,7 +15,7 @@ Build a Clickbank niche storefront in seconds.
 =  Clickbank Niche Storefront WordPress Plugin  =
 
 
-Clickbank is the World's Largest Digital Info Product Store. As a Clickbank affiliate, one can make tons of CASH by promoting these products.
+**Clickbank&reg;** is the World's Largest Digital Info Product Store. As a Clickbank affiliate, one can make tons of CASH by promoting these products.
 
 
 The most effective way to earn with CB products is targetted marketing, also known as **niche marketing**. 
@@ -32,25 +32,43 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 `[clickbank-niche-storefront]`
 
 
-**Feature**
+**CBproAds.com Unique Features**
 
-1. We are only plugin provider that offers **IMPROVED title & descriptions** of every products. 
-   We frame the title & description of each products to end users. Many of our 
-   competitor plugins show the raw title & description from Clickbank's marketplace which is
+1. We are only plugin provider that offers **IMPROVED title & descriptions** of every clickbank products. 
+   We frame the title & description of each products according to end users point of view. Many of our 
+   competitor plugins show the **raw title & description** from Clickbank's marketplace which is
    non-informative to end users. They are framed by Clickbank vendors just for attracting clickbank affiliates
-   to promote their products. O
+   to promote their products. Please see below an example that shows the difference between them.
 
-   **An example of a raw Clickbank title & description**:
+   Raw Clickbank title & description:
 
-	`[Fat Loss4 Idiots.  Our Top Affiliate Has Banked More than $1,00,000 In Just few Months! Our site is converting like crazy This Month! Earn 66% and get paid $23.15 per sale!]`
+	`[Fat Loss4 Idiots.  Our Top Affiliate Has Banked More than $1,00,000 In Just few Months! Earn 66% and get paid $23.15 per sale!]`
 
-   **An example of CBproAds Improved title & description**:
+   CBproAds Improved title & description:
 
 	`[Fat Loss4 Idiots. Learn the 10 idiot proof rules of dieting & fat loss And lose 9lbs every 11 Days!  ]`
 
 
+2. In other plugins, you are required to update your storefront with clickbank's data feed everyday. If you fail to update it often, 
+   your storefront may not synchronized with Clickbank&reg;'s maketplace data which is crucial not to lose your commissions.
 
-2. feature 2
+   At **CBproAds**, instead of importing Clickbank XML feed directly to your storefront, you share our central XML data feed.
+   Our central XML data feed is updated every days and contains only **IMPROVED title & descriptions** of every products.
+   As soon as we update it with Clickbank's data feed everyday, it will get reflected on your plugins automatically. 
+   In short, there is no further maintenance/actions needed with our plugin. We do take care of every thing.
+
+3. **Clickbank.com&reg;** often changes it's marketplace data XML feed structure. With our our plugin, Clickbank changes will never 
+   affect your storefront as you share our IMPROVED XML feed rather than using clickbank's XML feed. 
+   We make sure that when ever a change is made by Clickbank, our central XML feed is too updated according to that structure.  
+
+3. We are the only site that provides product image cover of each products in the plugin. 
+
+4. We are the only site that provides price of each products in the plugin. 
+
+5. NO brainstorming settings. It is easy to install and hardly take few seconds to set up. 
+
+6. Integrates with any WordPress theme easily and matches with it's color settings.
+
 
 == Installation ==
 
