@@ -45,6 +45,6 @@ Yes, you need to be a free/paid member at **CBproAds.com**. Click here to [Sign 
 
 == Screenshots ==
 
-1.  After the activation of plugin, you may click on 'settings' link of the plugin as shown in below picture. 
+1. After the activation of plugin, you may click on 'settings' link of the plugin as shown in below picture. 
 2. ClickBank Category Product Details, shows listing of product with descriptions, etc. and includes your ClickBank affiliate ID into each purchase link (Blue Product Title) so you earn a commission for every sale. Visitors can navigate back to primary categories or full marketplace, or search by keyword on any page in the Storefront.
 3. CB Storefront admin area in wp-admin section prompts you to enter your ClickBank ID so that all affiliate sales are tracked to your ClickBank account.
