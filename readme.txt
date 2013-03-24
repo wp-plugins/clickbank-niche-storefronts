@@ -35,9 +35,9 @@ for more information on how to install. It is easy and take a minute only.
 
 = How can i find more information about this plugin? =
 
-Please visit the link [Clickbank Niche Storefront WordPress Plugin...](http://cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp)
+Please visit the link [Clickbank Niche Storefront WordPress Plugin](http://cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp)
 
-= Do i need to register with your site this plugin? =
+= Do i need to register with your site to use this plugin? =
 
 Yes, you need to be a free/paid member at **CBproAds.com**. Click here to [Sign up @ CBproAds.com](http://cbproads.com/join.asp)
 
