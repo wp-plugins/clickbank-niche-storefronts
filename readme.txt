@@ -61,13 +61,13 @@ Using this plugin, you can host a niche storefront of your choice to your existi
    affect your storefront as you share our IMPROVED XML feed rather than using clickbank's XML feed. 
    We make sure that when ever a change is made by Clickbank, our central XML feed is too updated according to that structure.  
 
-3. We are the only site that provides product image cover of each products in the plugin. 
+4. We are the only site that provides product image cover of each products in your storefront. 
 
-4. We are the only site that provides price of each products in the plugin. 
+5. We are the only site that provides price information of each products in your storefront. 
 
-5. NO brainstorming settings. It is easy to install and hardly take few seconds to set up. 
+6. NO brainstorming settings. It is easy to install and hardly take few seconds to set up. 
 
-6. Integrates with any WordPress theme easily and matches with it's color settings.
+
 
 
 == Installation ==
