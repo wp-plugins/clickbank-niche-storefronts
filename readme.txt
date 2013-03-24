@@ -32,19 +32,19 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 `[clickbank-niche-storefront]`
 
 
-== **CBproAds.com Unique Features** == 
+**CBproAds.com Unique Features** 
 
 1. We are only plugin provider that offers **IMPROVED title & descriptions** of every clickbank products. 
    We frame the title & description of each products according to end users point of view. Many of our 
    competitor plugins show the **raw title & description** from Clickbank's marketplace which is
-   non-informative to end users. They are framed by Clickbank vendors just for attracting clickbank affiliates
+   non-informative to end users. Those are framed by Clickbank vendors just for attracting clickbank affiliates
    to promote their products. Please see below an example that shows the difference between them.
 
    Raw Clickbank title & description:
 
 	`[Fat Loss4 Idiots.  Our Top Affiliate Has Banked More than $1,00,000 In Just few Months! Earn 66% and get paid $23.15 per sale!]`
 
-   CBproAds Improved title & description:
+   ** CBproAds Improved ** title & description:
 
 	`[Fat Loss4 Idiots. Learn the 10 idiot proof rules of dieting & fat loss And lose 9lbs every 11 Days!  ]`
 
@@ -53,9 +53,10 @@ Using this plugin, you can host a niche storefront of your choice to your existi
    your storefront may not synchronized with Clickbank&reg;'s maketplace data which is crucial not to lose your commissions.
 
    At **CBproAds**, instead of importing Clickbank XML feed directly to your storefront, you share our central XML data feed.
-   Our central XML data feed is updated every days and contains only **IMPROVED title & descriptions** of every products.
-   As soon as we update it with Clickbank's data feed everyday, it will get reflected on your plugins automatically. 
-   In short, there is no further maintenance/actions needed with our plugin. We do take care of every thing.
+   Our central XML data feed is updated every day and contains only **IMPROVED title & descriptions** of each products.
+   As soon as we update it with Clickbank's data feed everyday, it will get reflected on your plugins also automatically. 
+   In short, there is no further maintenance/actions needed from your side with our plugin. 
+   You just install and forget. We do take care of every thing.
 
 3. **Clickbank.com&reg;** often changes it's marketplace data XML feed structure. With our our plugin, Clickbank changes will never 
    affect your storefront as you share our IMPROVED XML feed rather than using clickbank's XML feed. 
@@ -77,7 +78,7 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 1. Place shortcode **[clickbank-niche-storefront]** in your pages.
 
 
-Please visit the link [Clickbank Niche Storefront WordPress Plugin...](http://cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp) 
+Please visit the link [Clickbank Niche Storefront WordPress Plugin](http://cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp) 
 for more information on how to install. It is easy and take a minute only.
 
 
