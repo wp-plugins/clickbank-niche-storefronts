@@ -86,7 +86,7 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 
 
 Please visit the link [Clickbank Niche Storefront WordPress Plugin](http://cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp) 
-for more information on how to install. It is easy and take a minute only.
+for more information on how to install. It is easy and take a minute only. 
 
 
 
