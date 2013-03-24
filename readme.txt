@@ -8,20 +8,33 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Create a **niche storefront** containing products from clickbank's marketplace as a **Wordpress Plugin**. [Clickbank Niche Storefront WP Plugin...](http://CBproAds.com)
+Build a Clickbank niche storefront in seconds.
 
 == Description ==
 
 =  Clickbank Niche Storefront WordPress Plugin  =
 
-Clickbank is the World's Largest Digital Info Product Store. As a Clickbank affiliate, one can make CASH by promoting these products of any vendor who is published with Clickbank.
+Clickbank is the World's Largest Digital Info Product Store. As a Clickbank affiliate, one can make tons of CASH by promoting these products.
 
 
-Using this plugin, you can host these clickbank products on your website as a niche store of your choice (more than 60 premade ncihes to choose from) with just few clicks.
+The most effective way to earn with CB products is targetted marketing, also known as niche marketing. 
+Niche storefronts contains only a set of products that all relate to a certain subject, for example **"green energy"** or **"energy saving"**.
 
-Easy to install. Just add this shortcode to any WordPress page/post:
+
+Using this plugin, you can host a niche storefront of your choice to your existing wordpress blog with just few clicks.
+
+
+**More than 60 premade niches to choose from!**
+
+ Easy to install. Just add this shortcode to any WordPress page/post:
 
 `[clickbank-niche-storefront]`
+
+
+**Feature**
+
+1. Feature 1
+2. feature 2
 
 == Installation ==
 
