@@ -32,7 +32,7 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 `[clickbank-niche-storefront]`
 
 
-**CBproAds.com Unique Features**
+== **CBproAds.com Unique Features** == 
 
 1. We are only plugin provider that offers **IMPROVED title & descriptions** of every clickbank products. 
    We frame the title & description of each products according to end users point of view. Many of our 
