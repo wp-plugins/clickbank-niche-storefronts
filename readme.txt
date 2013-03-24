@@ -14,10 +14,11 @@ Build a Clickbank niche storefront in seconds.
 
 =  Clickbank Niche Storefront WordPress Plugin  =
 
+
 Clickbank is the World's Largest Digital Info Product Store. As a Clickbank affiliate, one can make tons of CASH by promoting these products.
 
 
-The most effective way to earn with CB products is targetted marketing, also known as niche marketing. 
+The most effective way to earn with CB products is targetted marketing, also known as **niche marketing**. 
 Niche storefronts contains only a set of products that all relate to a certain subject, for example **"green energy"** or **"energy saving"**.
 
 
@@ -33,7 +34,22 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 
 **Feature**
 
-1. Feature 1
+1. We are only plugin provider that offers **IMPROVED title & descriptions** of every products. 
+   We frame the title & description of each products to end users. Many of our 
+   competitor plugins show the raw title & description from Clickbank's marketplace which is
+   non-informative to end users. They are framed by Clickbank vendors just for attracting clickbank affiliates
+   to promote their products. O
+
+   **An example of a raw Clickbank title & description**:
+
+	`[Fat Loss4 Idiots.  Our Top Affiliate Has Banked More than $1,00,000 In Just few Months! Our site is converting like crazy This Month! Earn 66% and get paid $23.15 per sale!]`
+
+   **An example of CBproAds Improved title & description**:
+
+	`[Fat Loss4 Idiots. Learn the 10 idiot proof rules of dieting & fat loss And lose 9lbs every 11 Days!  ]`
+
+
+
 2. feature 2
 
 == Installation ==
