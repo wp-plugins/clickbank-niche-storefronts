@@ -2,7 +2,7 @@
 Contributors:dactum
 Donate link: http://cbproads.com
 Tags: Clickbank Niche Storefront plugin. Clickbank Mall, ClickStorefront plugin, Wordpress plugin for Clickbank Mall
-Requires at least: 3.3
+Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: trunk
 License: GPLv2 or later
@@ -25,6 +25,12 @@ Using this plugin, you can host these clickbank products on your website as a ni
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place shortcode **[clickbank-niche-storefront]** in your pages.
 
+
+Please visit the link [Clickbank Niche Storefront WordPress Plugin...](http://cbproads.com/clickbank_niche_storefront_wordpress_plugin.asp) 
+for more information on how to install. It is easy and take a minute only.
+
+
+
 == Frequently asked questions ==
 
 = A question that someone might have =
@@ -35,6 +41,6 @@ Please visit the link [Clickbank Niche Storefront WordPress Plugin...](http://cb
 
 == Screenshots ==
 
-1. Storefront Screenshot - Organized by ClickBank Categories and includes a Search box that will present products by Key Phrase.
+1.  After the activation of plugin, you may click on 'settings' link of the plugin as shown in below picture. 
 2. ClickBank Category Product Details, shows listing of product with descriptions, etc. and includes your ClickBank affiliate ID into each purchase link (Blue Product Title) so you earn a commission for every sale. Visitors can navigate back to primary categories or full marketplace, or search by keyword on any page in the Storefront.
 3. CB Storefront admin area in wp-admin section prompts you to enter your ClickBank ID so that all affiliate sales are tracked to your ClickBank account.
