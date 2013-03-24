@@ -8,7 +8,8 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Build a Clickbank niche storefront in seconds.
+Build a Clickbank niche storefront in seconds. INSTALL and FORGET! 
+No further action needed from your side!
 
 == Description ==
 
@@ -44,7 +45,7 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 
 	`[Fat Loss4 Idiots.  Our Top Affiliate Has Banked More than $1,00,000 In Just few Months! Earn 66% and get paid $23.15 per sale!]`
 
-   ** CBproAds Improved ** title & description:
+   **CBproAds Improved** title & description:
 
 	`[Fat Loss4 Idiots. Learn the 10 idiot proof rules of dieting & fat loss And lose 9lbs every 11 Days!  ]`
 
@@ -52,7 +53,7 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 2. In other plugins, you are required to update your storefront with clickbank's data feed everyday. If you fail to update it often, 
    your storefront may not synchronized with Clickbank&reg;'s maketplace data which is crucial not to lose your commissions.
 
-   At **CBproAds**, instead of importing Clickbank XML feed directly to your storefront, you share our central XML data feed.
+   At **CBproAds**, instead of importing Clickbank XML feed directly on to your storefront, you share our central XML data feed.
    Our central XML data feed is updated every day and contains only **IMPROVED title & descriptions** of each products.
    As soon as we update it with Clickbank's data feed everyday, it will get reflected on your plugins also automatically. 
    In short, there is no further maintenance/actions needed from your side with our plugin. 
@@ -68,8 +69,14 @@ Using this plugin, you can host a niche storefront of your choice to your existi
 
 6. NO brainstorming settings. It is easy to install and hardly take few seconds to set up. 
 
+7. You have also have the option of installing from 60 premade readymade niche packages. 
+   Each package contains wordpress installation files, a theme, necessary plugins, videos, articles,
+   banner/ adsense widgets to every thing that will help you to build a full fledged 
+   niche storefront. If you have already have a wordpress installed and want to install this
+   readymade niche package, please install on a fresh folder in your domain and use a  different Mysql Database
+   that is not used with your existing wordpress blog. 
 
-
+   In case, if you wish to use our plugin only, you can skip this step.
 
 == Installation ==
 
@@ -93,6 +100,13 @@ Please visit the link [Clickbank Niche Storefront WordPress Plugin](http://cbpro
 
 Yes, you need to be a free/paid member at **CBproAds.com**. Click here to [Sign up @ CBproAds.com](http://cbproads.com/join.asp)
 
+= Where can i find the installation files of the readymade 60 premade niche packages? =
+
+These niche packages are offered by another website and as we have partenered with them, this comes to you absolutely free.
+As per the agreement with them, these packages cannot be distributed freely and it requires a login to download them.
+You can download them from **CBproAds.com** members area. 
+
+Please click here to [Sign up @ CBproAds.com](http://cbproads.com/join.asp) 
 
 
 == Screenshots ==
