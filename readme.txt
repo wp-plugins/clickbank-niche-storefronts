@@ -1,7 +1,7 @@
-=== Clickbank Niche Storefront WP Plugin ===
+=== Clickbank WordPress Plugin (Niche Storefront) ===
 Contributors:dactum
 Donate link: http://cbproads.com
-Tags: clickbank, Clickbank Niche Storefront plugin, Clickbank Mall, ClickStorefront plugin, Wordpress plugin for Clickbank Mall, cbmall, clickbank marketplace, clickbank mall, cbproads, clickbank plugin, Clickbank Storefront, clickbank niche storefront
+Tags: Clickbank WordPress Plugin (Niche Storefront),clickbank, Clickbank Niche Storefront plugin, Clickbank Mall, ClickStorefront plugin, Wordpress plugin for Clickbank Mall, cbmall, clickbank marketplace, clickbank mall, cbproads, clickbank plugin, Clickbank Storefront, clickbank niche storefront
 
 Requires at least: 3.0
 Tested up to: 3.5.1
@@ -14,7 +14,7 @@ No further action needed from your side!
 
 == Description ==
 
-=  Clickbank Niche Storefront WordPress Plugin  =
+=  Clickbank WordPress Plugin (Niche Storefront)  =
 
 
 **Clickbank&reg;** is the World's Largest Digital Info Product Store. As a Clickbank affiliate, one can make tons of CASH by promoting these products.
